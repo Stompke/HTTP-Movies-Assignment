@@ -42,6 +42,8 @@ const UpdateMovie = props => {
                 console.log(err)
             })
     }
+
+
     
 
     return (
